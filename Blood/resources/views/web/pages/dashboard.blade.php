@@ -50,7 +50,7 @@
                         <div class="p-3 bg-white shadow-sm d-flex justify-content-around align-items-center rounded">
                             <div>
                                 <h3 class="fs-2">B+</h3>
-                                <p class="fs-5">Sales</p>
+                                <p class="fs-5">5</p>
                             </div>
                             <i class="fas fa-tint fs-1 text-danger border rounded-full p-3"></i>
                         </div>
@@ -60,7 +60,7 @@
                         <div class="p-3 bg-white shadow-sm d-flex justify-content-around align-items-center rounded">
                             <div>
                                 <h3 class="fs-2">O+</h3>
-                                <p class="fs-5">Delivery</p>
+                                <p class="fs-5">6</p>
                             </div>
                             <i class="fas fa-tint fs-1 text-danger border rounded-full p-3"></i>
                         </div>
@@ -69,7 +69,7 @@
                         <div class="p-3 bg-white shadow-sm d-flex justify-content-around align-items-center rounded">
                             <div>
                                 <h3 class="fs-2">AB+</h3>
-                                <p class="fs-5">Delivery</p>
+                                <p class="fs-5">9</p>
                             </div>
                             <i class="fas fa-tint fs-1 text-danger border rounded-full p-3"></i>
                         </div>
@@ -78,7 +78,7 @@
                         <div class="p-3 bg-white shadow-sm d-flex justify-content-around align-items-center rounded">
                             <div>
                                 <h3 class="fs-2">A-</h3>
-                                <p class="fs-5">Delivery</p>
+                                <p class="fs-5">9</p>
                             </div>
                             <i class="fas fa-tint fs-1 text-danger border rounded-full p-3"></i>
                         </div>
@@ -87,7 +87,7 @@
                         <div class="p-3 bg-white shadow-sm d-flex justify-content-around align-items-center rounded">
                             <div>
                                 <h3 class="fs-2">B-</h3>
-                                <p class="fs-5">Delivery</p>
+                                <p class="fs-5">6</p>
                             </div>
                             <i class="fas fa-tint fs-1 text-danger border rounded-full p-3"></i>
                         </div>
@@ -106,7 +106,7 @@
                         <div class="p-3 bg-white shadow-sm d-flex justify-content-around align-items-center rounded">
                             <div>
                                 <h3 class="fs-2">AB -</h3>
-                                <p class="fs-5">Increase</p>
+                                <p class="fs-5">7</p>
                             </div>
                             <i class="fas fa-tint fs-1 text-danger border rounded-full p-3"></i>
                         </div>

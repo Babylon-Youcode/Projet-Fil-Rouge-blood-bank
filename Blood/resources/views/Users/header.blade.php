@@ -31,7 +31,7 @@
                             {{ __('Profile') }}
                         </a> --}}
                 <a href="{{url ('/Users/User') }}" class="list-group-item list-group-item-action bg-transparent second-text fw-bold"><i
-                        class="fas fa-hand-holding-medical me-2" ></i>Donor</a>
+                        class="fas fa-hand-holding-medical me-2" ></i>User</a>
             
             
                     <form method="POST" action="{{ route('logout') }}">
